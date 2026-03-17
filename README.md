@@ -1,9 +1,5 @@
-# motor-cortex-somatotopy
-fMRI GLM analysis of somatotopic body-part representations in human motor and somatosensory cortex
-# Motor Cortex Somatotopic Mapping — fMRI Analysis
-
-A neuroimaging analysis project investigating the somatotopic organisation of body-part representations in the human motor and somatosensory cortex, using 7T fMRI data and a General Linear Model (GLM).
-
+Motor Cortex Somatotopic Mapping — fMRI Analysis
+A neuroimaging analysis project conducted as part of the Brain Imaging course at Vrije Universiteit Amsterdam (VU). The project investigates the somatotopic organisation of body-part representations in the human motor and somatosensory cortex, using 7T fMRI data and a General Linear Model (GLM).
 ---
 
 ## Overview
