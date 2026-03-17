@@ -1,0 +1,32 @@
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Data files (often too large for Git)
+*.nii
+*.nii.gz
+*.mat
+*.hdf5
+*.h5
+data/
+
+# OS
+.DS_Store
+Thumbs.db
