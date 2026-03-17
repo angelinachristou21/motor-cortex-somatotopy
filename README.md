@@ -1,6 +1,7 @@
-##Motor Cortex Somatotopic Mapping — fMRI Analysis
+---
+## Motor Cortex Somatotopic Mapping — fMRI Analysis
 
-A neuroimaging analysis project conducted as part of the Brain Imaging course at Vrije Universiteit Amsterdam (VU). The project investigates the somatotopic organisation of body-part representations in the human motor and somatosensory cortex, using 7T fMRI data and a General Linear Model (GLM).
+ A neuroimaging analysis project conducted as part of the Brain Imaging course at Vrije Universiteit Amsterdam (VU). The project investigates the somatotopic organisation of body-part representations in the human motor and somatosensory cortex, using 7T fMRI data and a General Linear Model (GLM).
 ---
 
 ## Overview
